@@ -12,7 +12,7 @@ Chara Dust 是一名来自[世界管理组织](test.md)的新晋执政者，被�
 - 原名：Charlos De Sanchez  
 - 本地化名：查拉 · 德  
 - [生物种族](../Concept/Bioethnic.md)：异象（人类）  
-  - 灵魂特质：仇恨（黑色）  
+  - 灵魂特质：仇恨（![#000000](https://via.placeholder.com/12/000000/000000?text=+) `#000000`）  
   - 生理年龄：22（被暂停）  
 - 称谓代词：He（他）
 
