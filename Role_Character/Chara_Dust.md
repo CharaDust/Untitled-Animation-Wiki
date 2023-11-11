@@ -4,7 +4,7 @@
 
 > Muestra #25565, esta debe ser una de las mejores muestras en términos de aptitud física y capacidad de lucha, y debería ser más que suficiente para manejar algunos enemigos alfa. Es una lástima que esta muestra se estrelló en el cráter no hace mucho tiempo.  
 > 第25565号样本，这应该是身体机能和战斗能力最出色的样本之一，应付一些首领敌人应该绰绰有余。只可惜，这个样本在不久之前坠入了火山口，你知道的。  
-> —— CharaDust (#33897)
+> —— Chara Dust (#33897)
 
 Chara Dust 是一名具有快速对敌方施加负面效果能力的辅助型可操控角色，能够在快速削弱敌方的同时兼具有一定输出能力。
 

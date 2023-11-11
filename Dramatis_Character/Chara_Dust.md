@@ -4,11 +4,12 @@
 
 > Ja, para ser honesto he pasado por decenas de miles de muertes y soy un merecido experto en esta área. Así que por favor contéstame, ¿crees que mi nuevo cuerpo será la solución óptima para ti esta vez?  
 > 哈，说实话我已经经历过数以万计的死亡，在这方面我可是当之无愧的专家。所以请你回答我，你认为我这次的新身体会是你的最优解么？  
-> —— CharaDust (#42801)
+> —— Chara Dust (#42801)
 
 Chara Dust 是一名来自[世界管理组织](test.md)的新晋执政者，被任命与解决再生凋灵风暴事件之后。早期为生活四处奔波，曾经历过“地狱般的折磨和无休止的循环”，生理年龄被神秘地停留。
 
 ## 基本信息
+- 原名：Charlos De Sanchez  
 - 本地化名：查拉 · 德  
 - [生物种族](../Concept/Bioethnic.md)：异象（人类）  
   - 灵魂特质：仇恨（黑色）  
