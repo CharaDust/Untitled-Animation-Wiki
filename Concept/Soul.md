@@ -4,7 +4,7 @@
 
 ## 七色堇
 
-七色堇（`Rainbow Viola`）
+七色堇（`Rainbow Viola`）指的是是由七种象征着彩虹颜色的正面性格灵魂特质
 
 ### 决心
 
@@ -74,7 +74,7 @@
 
 ### 毅力
 
-毅力（`Perseverance` | <font color="#D535D9">#D535D9</font>）是一种擅长以极长时间作战的灵魂特质。
+毅力（`Perseverance` | <font color="#D535D9">#D535D9</font>）是一种擅长给敌方施加负面效果的灵魂特质。
 
 
 ## 非七色堇
