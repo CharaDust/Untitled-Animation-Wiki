@@ -4,11 +4,10 @@
 本文章介绍的是一名原创剧情角色。关于其他同名条目，请参考[消歧义页面]()
 
 <!-- 这是角色的引言，如果你设定的角色源自于其他国家或地区，请编写一段对应语言的名言并附上中文翻译；若你设定的角色源自中国，则只需要编写中文 -->
-> Raw Introductory  
->   去探索、去梦想、去发现  
+> Each of my births means the fall of some life in this parallel universe. Their destiny was not argued, and there is no answer to my existence. All that willpower has left me is the nebulous unknown, waiting for me to continue to explore, to dream, to discover.  
+> 每一个我的诞生，意味着这平行宇宙中某条生命的陨落。他们命运未曾辩驳，而我的存在，亦无答案。那些意志力所留给我的，只有那些虚无缥缈未知，等待着我继续去探索、去梦想、去发现。  
 > —— Richard Ki
 
-<!-- 这是角色的简介，如果角色名不使用英文名字，则括号内必须是英语名字，不得含有非ASCII字符，英语名字将作为内部键名 -->
 Richard Ki 最初是一具由 Chara Dust 使用量化意志力创造出的仿生力容器，用于存放量化的罐装意志力并将其意志力以 Richard Ki 的身份加以体现。在没有意志力支撑下的 Richard Ki 会处于保持基本生命体征的休眠状态。
 
 ## 基本信息
@@ -16,7 +15,8 @@ Richard Ki 最初是一具由 Chara Dust 使用量化意志力创造出的仿生
 - 本地化名：理查德 · 奇
 - [生物种族](../Concept/Bioethnic.md)：异象（人类）  
   - 灵魂特质：毅力（![#D535D9](https://via.placeholder.com/12/D535D9/000000?text=+) `#D535D9`）  
-  - 生理年龄：5（修饰语）  
+  - 生理年龄：5  
+  - 模拟年龄：21  
 - 称谓代词：He（他）
 
 <!-- 这是角色的基本外貌特征，方便后期制作模型 -->
@@ -37,10 +37,12 @@ Richard Ki 最初是一具由 Chara Dust 使用量化意志力创造出的仿生
 手环提供的功能如下：
 - `AimAssist` 允许使用者持续瞄准攻击对象
 - `ArmedBeacon` 允许使用者召唤浮空的信标
+- `BladeNoClip` 攻击范围无视周围障碍物
 - `ExtraElytra` 允许使用电力改变飞行器的动能
 - `Flight` 允许使用者脱离重力悬浮在空中
 - `HeavyFallOut` 允许将使用者所受动量/冲量转换为伤害
 - `IdentityHack` 允许使用者伪造为特定身份
+- `IndexedAura` 允许以降低攻击速度为代价召唤幻影进行协同攻击
 - `Jesus` 允许使用者在液体表面上行走（耶稣用了都说好）
 - `KillAura` 允许使用者自动攻击附近的对象
 - `KillPotion` 允许附魔液体，使其具有极其致命的杀伤力，并绕过世界规则检测
@@ -58,7 +60,16 @@ Richard Ki 最初是一具由 Chara Dust 使用量化意志力创造出的仿生
 ### WL
 
 <!-- 个人剧情，在此处写下专属于这一个角色的传奇故事 -->
-### CHR · 个人故事线
+### CHR · 破碎之梦中的闪耀梦魇
+这个系列主要讲述 Draght Mare 的生前故事：
+- Draght Mare 所蕴含的混合意志力最终被分解成 Original Dream 与 Shining Nightmare 两个独立意志力
+
+正文从此处开始
+### CHR · 千面派对
+这个系列主要讲述 示例角色 在某时某地发生的故事：
+
+正文从此处开始
+### CHR · 靛粉之蓝
 这个系列主要讲述 示例角色 在某时某地发生的故事：
 
 正文从此处开始
@@ -81,8 +92,7 @@ Richard Ki 最初是一具由 Chara Dust 使用量化意志力创造出的仿生
 ## 人物关系
 |角色键名|本地化名称|相对立场|关系称谓|剧情来源|
 |---|---|:---:|---|---|
-|Jack|杰克|友好|老友|---|
-|Bob|鲍勃|敌对|宝宝恶魔|---|
+|Chara Dust|查拉 · 德|友好|队长|---|
 |---|---|:---:|---|---|
 
 <!-- 这是角色需要考虑的细节部分，先行写出有助于为剧情做铺垫 -->
