@@ -14,7 +14,7 @@
 - 原名：秋水 琉璃雪  
 - 本地化名：琉璃雪  
 - [生物种族](../Concept/Bioethnic.md)：异象（人类）  
-  - 灵魂特质：勇气（![#fca600](https://via.placeholder.com/12/fca600/000000?text=+) `#fca600`）  
+  - [灵魂特质](../Concept/Soul.md)：勇气（![#fca600](https://via.placeholder.com/12/fca600/000000?text=+) `#fca600`）  
   - 生理年龄：32  
 - 称谓代词：She（她）
 

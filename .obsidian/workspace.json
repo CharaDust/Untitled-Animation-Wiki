@@ -8,39 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "745d88ad71347953",
+            "id": "4837e4fa6f0fa3a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/Properties/Health_Point_Value.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57ae1fbf70b2dc8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept/Properties/Health_Point_Value.md",
+                "file": "Concept/Damage.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3734f6ed582346fd",
+            "id": "b42243677bb436bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/Properties/Health_Point_Value.md",
+                "file": "Concept/Damage.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concept/Properties/Health_Point_Value.md",
+                "file": "Concept/Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concept/Properties/Health_Point_Value.md",
+                "file": "Concept/Damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concept/Properties/Health_Point_Value.md"
+                "file": "Concept/Damage.md"
               }
             }
           }
@@ -165,6 +151,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -172,36 +159,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57ae1fbf70b2dc8e",
+  "active": "b42243677bb436bf",
   "lastOpenFiles": [
     "Concept/Soul.md",
-    "Concept/Properties/Health_Point_Value.md",
-    "Concept/Properties/Hit_Point_Percent.md",
-    "Concept/Properties/Attack_Attribute.md",
-    "Concept/Acronyms.md",
-    "Concept/-list_Concept.md",
-    "Concept/未命名",
-    "Concept/Properties.md",
-    "Concept/Container.md",
-    "Concept/Bioethnic.md",
-    "Concept/Rootrule.md",
-    "Concept/Properties",
-    "Concept/Damage.md",
-    "Disambiguation/Chara_Dust.md",
-    "Disambiguation/-list_Disambiguation.md",
-    "README.md",
-    "Concept/Elemengia.md",
-    "Concept/Techmo.md",
-    "-list_Concept.md",
+    "Dramatis_Character/Schroder.md",
+    "Dramatis_Character/Richard_Ki.md",
+    "Dramatis_Character/Liulixue.md",
+    "Dramatis_Character/Shiloh_Finn.md",
+    "Dramatis_Character/Shu_Jing.md",
     "Dramatis_Character/Chara_Dust.md",
-    "().md",
-    "Concept/-list.md",
-    "新建 文本文档.txt",
-    "ReadMe.txt",
-    "[list]Main.md",
-    "Role_Character/Chara_Dust.md",
     "Dramatis_Character/Charlie.md",
-    "Concept/Spectroscopy.md",
-    "Enermy/Chara_Dust.md"
+    "Dramatis_Character/Frosty.md",
+    "Concept/Bioethnic.md",
+    "Enermy/Chara_Dust.md",
+    "Concept/Properties/Hit_Point_Percent.md",
+    "Concept/Properties/Health_Point_Value.md",
+    "Timeline/-list_Timeline.md",
+    "Timeline/DecayDream/-main.md",
+    "Timeline/HubbleVolume/-main.md",
+    "Concept/Damage.md",
+    "README.md",
+    "Role_Character/-list_Role_Character.md",
+    "Role_Character/Chara_Dust.md",
+    "Concept/Elemengia.md",
+    "Concept/NurtLevels.md",
+    "Concept/Rootrule.md",
+    "Concept/Acronyms.md",
+    "Concept/Container.md",
+    "Concept/-list_Concept.md",
+    "未命名.canvas",
+    "Animation-Wiki.code-workspace",
+    "Concept/Functions",
+    "Concept/Properties",
+    "新建 文本文档.txt",
+    "ReadMe.txt"
   ]
 }

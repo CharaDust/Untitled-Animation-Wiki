@@ -14,7 +14,7 @@ Richard Ki 最初是一具由 Chara Dust 使用量化意志力创造出的仿生
 - 原名：Richard Ki  
 - 本地化名：理查德 · 奇
 - [生物种族](../Concept/Bioethnic.md)：异象（人类）  
-  - 灵魂特质：毅力（![#D535D9](https://via.placeholder.com/12/D535D9/000000?text=+) `#D535D9`）  
+  - [灵魂特质](../Concept/Soul.md)：毅力（![#D535D9](https://via.placeholder.com/12/D535D9/000000?text=+) `#D535D9`）  
   - 生理年龄：5  
   - 模拟年龄：21  
 - 称谓代词：He（他）
