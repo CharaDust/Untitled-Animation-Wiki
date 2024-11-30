@@ -12,4 +12,6 @@
 | `Enermy`             | 敌怪   |                                                               |                          |                 |
 | `Role_Character`     | 扮演角色 | [list_Role_Character](Role_Character/-list_Role_Character.md) | [[-list_Role_Character]] |                 |
 | `Timeline`           | 时间线  | [Timeline](Timeline/-list_Timeline.md)                        | [[-list_Timeline]]       |                 |
+| `Cam-Group`          | 阵营   | [Cam-Group](Cam-Group/-list_Cam-Group.md)                     | [[-list_Cam-Group]]      |                 |
+|                      |      |                                                               |                          |                 |
 

@@ -8,19 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4837e4fa6f0fa3a8",
+            "id": "02696a53bc81f584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/Damage.md",
+                "file": "Role_Character/Chara_Dust.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chara_Dust"
             }
           },
           {
-            "id": "b42243677bb436bf",
+            "id": "3c417e4571593c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Role_Character/Kaplan_Steve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaplan_Steve"
+            }
+          },
+          {
+            "id": "4330ee4987453441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept/Properties.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Properties"
+            }
+          },
+          {
+            "id": "5291cb197cfe3caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,7 +58,63 @@
                 "file": "Concept/Damage.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Damage"
+            }
+          },
+          {
+            "id": "0c9def60056d375c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept/Soul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soul"
+            }
+          },
+          {
+            "id": "e5e27cfd6b282a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept/Container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Container"
+            }
+          },
+          {
+            "id": "9caa11843a30b5c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "274a3cecd428cc65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept/NurtLevels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NurtLevels"
             }
           }
         ],
@@ -52,7 +138,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -67,7 +155,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -75,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -98,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concept/Damage.md",
+                "file": "Concept/Environments/Storm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +198,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Storm 的反向链接列表"
             }
           },
           {
@@ -115,10 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concept/Damage.md",
+                "file": "Concept/Environments/Storm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Storm 的出链列表"
             }
           },
           {
@@ -129,7 +225,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -138,8 +236,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concept/Damage.md"
-              }
+                "file": "Role_Character/Kaplan_Steve.md"
+              },
+              "icon": "lucide-list",
+              "title": "Kaplan_Steve 的大纲"
             }
           }
         ],
@@ -147,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,34 +259,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b42243677bb436bf",
+  "active": "3c417e4571593c84",
   "lastOpenFiles": [
-    "Concept/Soul.md",
-    "Dramatis_Character/Schroder.md",
-    "Dramatis_Character/Richard_Ki.md",
-    "Dramatis_Character/Liulixue.md",
-    "Dramatis_Character/Shiloh_Finn.md",
-    "Dramatis_Character/Shu_Jing.md",
-    "Dramatis_Character/Chara_Dust.md",
-    "Dramatis_Character/Charlie.md",
-    "Dramatis_Character/Frosty.md",
-    "Concept/Bioethnic.md",
-    "Enermy/Chara_Dust.md",
-    "Concept/Properties/Hit_Point_Percent.md",
-    "Concept/Properties/Health_Point_Value.md",
-    "Timeline/-list_Timeline.md",
-    "Timeline/DecayDream/-main.md",
-    "Timeline/HubbleVolume/-main.md",
-    "Concept/Damage.md",
-    "README.md",
-    "Role_Character/-list_Role_Character.md",
-    "Role_Character/Chara_Dust.md",
-    "Concept/Elemengia.md",
-    "Concept/NurtLevels.md",
-    "Concept/Rootrule.md",
-    "Concept/Acronyms.md",
     "Concept/Container.md",
+    "Role_Character/Kaplan_Steve.md",
+    "Role_Character/Chara_Dust.md",
+    "Concept/Damage.md",
+    "Concept/Properties.md",
+    "Concept/Soul.md",
+    "Concept/NurtLevels.md",
+    "Concept/Environments/Storm.md",
+    "Dramatis_Character/-list_Dramatis_Character.md",
+    "Dramatis_Character/Chara_Dust.md",
+    "Role_Character/-list_Role_Character.md",
+    "Dramatis_Character/Shiloh_Finn.md",
+    "Concept/Environments",
+    "Enermy/Chara_Dust.md",
+    "Disambiguation/Chara_Dust.md",
+    "().md",
+    "Concept/Death.md",
+    "Concept/Elemengia.md",
+    "Concept/Rootrule.md",
+    "Concept/Properties/Attack_Attribute.md",
+    "Concept/Properties/Hit_Point_Percent.md",
+    "Timeline/-list_Timeline.md",
+    "Timeline/HubbleVolume/-main.md",
+    "Timeline/DecayDream/-main.md",
     "Concept/-list_Concept.md",
+    "Dramatis_Character/Frosty.md",
+    "Dramatis_Character/Kaplan_Steve.md",
+    "Cam-Group",
     "未命名.canvas",
     "Animation-Wiki.code-workspace",
     "Concept/Functions",

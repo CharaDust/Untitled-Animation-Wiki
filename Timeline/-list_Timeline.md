@@ -4,11 +4,12 @@
 | ---: | -------------------------------------- | ------- | ----- |
 |    0 | [NULL]()                               | 虚无宇宙    | 混沌    |
 |    1 | [Euclid]()                             | 欧几里得宇宙  | 幻想    |
-|  257 | [Hubble Volume](HubbleVolume/-main.md) | 哈勃体积    | 宇宙大爆炸 |
+|   42 | [Hubble Volume](HubbleVolume/-main.md) | 哈勃体积    | 宇宙大爆炸 |
 |  258 | [Yilsrussimil]()                       | 耶尔斯鲁西米尔 | 轮回错误  |
 | 6314 | [Decay Dream](DecayDream/-main.md)     | 破败之梦    | 异常影响  |
 | ---: | [---]()                                | ---     | ---   |
 | ---: | [---]()                                | ---     | ---   |
+|      |                                        |         |       |
 
 ## 形成分类概述
 
@@ -67,7 +68,6 @@
 |39|[Rewmanawa]()|
 |40|[Ethiophodhe]()|
 |41|[Urastrykle]()|
-|42|[Xobeurindj]()|
 |43|[Oniijialdu]()|
 |44|[Wucetosucc]()|
 |45|[Ebyeloof]()|
@@ -282,4 +282,5 @@
 |254|[Tuhgrespod]()|
 |255|[Iousongola]()|
 |256|[Odyalutai]()|
+|257|[Xobeurindj]()|
 -->

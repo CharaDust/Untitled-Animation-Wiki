@@ -15,5 +15,6 @@
 |              | 灵魂特质 | [Soul](Soul.md)                 | [[Soul]]         |     |
 |              | 光谱型类 | [Spectroscopy](Spectroscopy.md) | [[Spectroscopy]] |     |
 |              | 科技型号 | [Techmo](Techmo.md)             | [[Techmo]]       |     |
+| `Death`      | 死亡   | [Death](Death.md)               | [[Death]]        |     |
 
 

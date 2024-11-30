@@ -3,7 +3,7 @@
 Chara Dust 在这里可能指
 - [【跳转】](../Dramatis_Character/Chara_Dust.md)原创的剧情角色
 - [【跳转】](../Role_Character/Chara_Dust.md)可操控的角色
-- [【跳转】]()敌对角色
+- [【跳转】](../Enermy/Chara_Dust.md)敌对角色
 - [【跳转】]()贡献者的化名
 
 你可能还在寻找
