@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50d92821b9671a6e",
+        "id": "4114a71dd6f15908",
         "type": "tabs",
         "children": [
           {
-            "id": "02696a53bc81f584",
+            "id": "5bd2a156cc875d07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +22,7 @@
             }
           },
           {
-            "id": "3c417e4571593c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Role_Character/Kaplan_Steve.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kaplan_Steve"
-            }
-          },
-          {
-            "id": "4330ee4987453441",
+            "id": "f5953dff057223cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,61 +36,21 @@
             }
           },
           {
-            "id": "5291cb197cfe3caa",
+            "id": "2735cbf40676ff35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/Damage.md",
+                "file": "Item/Weapon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Damage"
+              "title": "Weapon"
             }
           },
           {
-            "id": "0c9def60056d375c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept/Soul.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soul"
-            }
-          },
-          {
-            "id": "e5e27cfd6b282a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept/Container.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Container"
-            }
-          },
-          {
-            "id": "9caa11843a30b5c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "274a3cecd428cc65",
+            "id": "9570b60b7e183cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -149,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "特技",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,10 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Role_Character/Kaplan_Steve.md"
+                "file": "Item/Weapon.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kaplan_Steve 的大纲"
+              "title": "Weapon 的大纲"
             }
           }
         ],
@@ -259,41 +209,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c417e4571593c84",
+  "active": "2735cbf40676ff35",
   "lastOpenFiles": [
-    "Concept/Container.md",
-    "Role_Character/Kaplan_Steve.md",
+    "Role_Character/Charlos.md",
+    "Item/Weapon.md",
+    "Item",
     "Role_Character/Chara_Dust.md",
-    "Concept/Damage.md",
     "Concept/Properties.md",
-    "Concept/Soul.md",
     "Concept/NurtLevels.md",
-    "Concept/Environments/Storm.md",
-    "Dramatis_Character/-list_Dramatis_Character.md",
+    "Concept/Soul.md",
+    "Concept/Properties/Health_Point_Value.md",
+    "Role_Character/Kaplan_Steve.md",
     "Dramatis_Character/Chara_Dust.md",
-    "Role_Character/-list_Role_Character.md",
+    "Dramatis_Character/Charlie.md",
     "Dramatis_Character/Shiloh_Finn.md",
-    "Concept/Environments",
-    "Enermy/Chara_Dust.md",
-    "Disambiguation/Chara_Dust.md",
-    "().md",
-    "Concept/Death.md",
+    "Dramatis_Character/Shu_Jing.md",
     "Concept/Elemengia.md",
-    "Concept/Rootrule.md",
-    "Concept/Properties/Attack_Attribute.md",
-    "Concept/Properties/Hit_Point_Percent.md",
-    "Timeline/-list_Timeline.md",
-    "Timeline/HubbleVolume/-main.md",
-    "Timeline/DecayDream/-main.md",
+    "Concept/Gamemode.md",
+    "Concept/Container.md",
+    "Concept/Bioethnic.md",
+    "Concept/Acronyms.md",
+    "Role_Character/-list_Role_Character.md",
+    "Dramatis_Character/-list_Dramatis_Character.md",
     "Concept/-list_Concept.md",
+    "Concept/Properties/Hit_Point_Percent.md",
+    "Dramatis_Character/Schroder.md",
+    "Dramatis_Character/Richard_Ki.md",
     "Dramatis_Character/Frosty.md",
-    "Dramatis_Character/Kaplan_Steve.md",
+    "test.md",
+    "README.md",
+    "Role_Character/~$data.ods",
+    "Role_Character/F87BD000",
+    "Role_Character/1779D000",
+    "Role_Character/01D8D000",
+    "Role_Character/data.ods",
+    "Role_Character/4588D000",
+    "Concept/Environments",
     "Cam-Group",
     "未命名.canvas",
-    "Animation-Wiki.code-workspace",
-    "Concept/Functions",
-    "Concept/Properties",
-    "新建 文本文档.txt",
-    "ReadMe.txt"
+    "Animation-Wiki.code-workspace"
   ]
 }

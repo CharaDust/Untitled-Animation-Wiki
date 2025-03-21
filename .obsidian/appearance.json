@@ -3,5 +3,8 @@
   "baseFontSizeAction": true,
   "monospaceFontFamily": "Envy Code R,Source Han Sans HW TC",
   "interfaceFontFamily": "Microsoft YaHei Mono",
-  "textFontFamily": "Ubuntu,Source Han Sans HW TC"
+  "textFontFamily": "Ubuntu,Source Han Sans HW TC",
+  "cssTheme": "80s Neon",
+  "theme": "obsidian",
+  "nativeMenus": false
 }

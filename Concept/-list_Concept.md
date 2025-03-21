@@ -9,6 +9,7 @@
 |              | 容器   | [Container](Container.md)       | [[Container]]    |     |
 |              | 伤害类型 | [Damage](Damage.md)             | [[Damage]]       |     |
 |              | 元素力  | [Elemengia](Elemengia.md)       | [[Elemengia]]    |     |
+|              | 游戏模式 | [Gamemode](Gamemode.md)         | [[Gamemode]]     |     |
 | `NurtLevels` | 培养等级 | [NurtLevels](NurtLevels.md)     | [[NurtLevels]]   |     |
 |              | 面板属性 | [Properties](Properties.md)     | [[Properties]]   |     |
 |              | 根规则  | [Rootrule](Rootrule.md)         | [[Rootrule]]     |     |
