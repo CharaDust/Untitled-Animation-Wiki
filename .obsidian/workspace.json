@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Role_Character/Chara_Dust.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chara_Dust"
-            }
-          },
-          {
-            "id": "f5953dff057223cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Concept/Properties.md",
                 "mode": "source",
                 "source": false
@@ -36,17 +22,31 @@
             }
           },
           {
+            "id": "f5953dff057223cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Role_Character/Kaplan_Steve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaplan_Steve"
+            }
+          },
+          {
             "id": "2735cbf40676ff35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Item/Weapon.md",
+                "file": "Role_Character/Charlos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapon"
+              "title": "Charlos"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/NurtLevels.md",
+                "file": "Role_Character/Chara_Dust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NurtLevels"
+              "title": "Chara_Dust"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Item/Weapon.md",
+                "file": "Role_Character/Charlos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Weapon 的大纲"
+              "title": "Charlos 的大纲"
             }
           }
         ],
@@ -211,22 +211,26 @@
   },
   "active": "2735cbf40676ff35",
   "lastOpenFiles": [
-    "Role_Character/Charlos.md",
-    "Item/Weapon.md",
-    "Item",
     "Role_Character/Chara_Dust.md",
-    "Concept/Properties.md",
+    "Role_Character/Charlos.md",
+    "Role_Character/Kaplan_Steve.md",
     "Concept/NurtLevels.md",
+    "Item/Weapon.md",
+    "Cam-Group/-list_Cam-Group.md",
+    "Concept/Properties.md",
+    "Enermy/Chara_Dust.md",
+    "Disambiguation/Chara_Dust.md",
+    "Concept/Container.md",
+    "Dramatis_Character/Chara_Dust.md",
+    "().md",
+    "Item",
     "Concept/Soul.md",
     "Concept/Properties/Health_Point_Value.md",
-    "Role_Character/Kaplan_Steve.md",
-    "Dramatis_Character/Chara_Dust.md",
     "Dramatis_Character/Charlie.md",
     "Dramatis_Character/Shiloh_Finn.md",
     "Dramatis_Character/Shu_Jing.md",
     "Concept/Elemengia.md",
     "Concept/Gamemode.md",
-    "Concept/Container.md",
     "Concept/Bioethnic.md",
     "Concept/Acronyms.md",
     "Role_Character/-list_Role_Character.md",
@@ -234,10 +238,6 @@
     "Concept/-list_Concept.md",
     "Concept/Properties/Hit_Point_Percent.md",
     "Dramatis_Character/Schroder.md",
-    "Dramatis_Character/Richard_Ki.md",
-    "Dramatis_Character/Frosty.md",
-    "test.md",
-    "README.md",
     "Role_Character/~$data.ods",
     "Role_Character/F87BD000",
     "Role_Character/1779D000",
