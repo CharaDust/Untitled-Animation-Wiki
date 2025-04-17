@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/NurtLevels.md",
+                "file": "Enermy/Kaplan_Steve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NurtLevels"
+              "title": "Kaplan_Steve"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concept/NurtLevels.md",
+                "file": "Enermy/Kaplan_Steve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "NurtLevels 的大纲"
+              "title": "Kaplan_Steve 的大纲"
             }
           }
         ],
@@ -225,14 +225,14 @@
   },
   "active": "2735cbf40676ff35",
   "lastOpenFiles": [
+    "Role_Character/Kaplan_Steve.md",
+    "Concept/NurtLevels.md",
     "Enermy/Kaplan_Steve.md",
     "Enermy/Chara_Dust.md",
     "Dramatis_Character/-list_Dramatis_Character.md",
     "Role_Character/-list_Role_Character.md",
-    "Role_Character/Kaplan_Steve.md",
     "Role_Character/Chara_Dust.md",
     "Role_Character/Charlos.md",
-    "Concept/NurtLevels.md",
     "Item/Weapon.md",
     "Cam-Group/-list_Cam-Group.md",
     "Concept/Properties.md",
