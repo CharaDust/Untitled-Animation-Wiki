@@ -15,6 +15,6 @@
 ### 强季风流
 强季风流（`Strong Monsoon`）
 ### 时空锈蚀
-时空锈蚀（`spatio-temporal rust`）
+时空锈蚀（`Spatio-temporal rust`）
 ### 黑暗浪潮
 黑暗浪潮（`Miasma Wave`）
