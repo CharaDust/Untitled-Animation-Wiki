@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dramatis_Character/-list_Dramatis_Character.md",
+                "file": "Role_Character/Charlos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-list_Dramatis_Character"
+              "title": "Charlos"
+            }
+          },
+          {
+            "id": "1cd7f1c2e081619e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept/NurtLevels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NurtLevels"
+            }
+          },
+          {
+            "id": "a4c9ac5b92b52718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept/Damage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Damage"
+            }
+          },
+          {
+            "id": "89373258a1a290bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept/Properties.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Properties"
             }
           }
         ]
@@ -140,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dramatis_Character/-list_Dramatis_Character.md",
+                "file": "Role_Character/Charlos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "-list_Dramatis_Character 的大纲"
+              "title": "Charlos 的大纲"
             }
           }
         ],
@@ -168,18 +210,25 @@
   },
   "active": "e2cf34c47e0629a3",
   "lastOpenFiles": [
+    "Concept/NurtLevels.md",
+    "Role_Character/Charlos.md",
+    "Role_Character/Chara_Dust.md",
+    "test.md",
+    "未命名.canvas",
+    "Concept/Damage.md",
+    "Concept/Properties.md",
+    "Dramatis_Character/Richard_Ki.md",
+    "Dramatis_Character/PLAYER.md",
+    "Dramatis_Character/-list_Dramatis_Character.md",
+    "Concept/Gamemode.md",
+    "Concept/Elemengia.md",
     "Concept/Environments/Storm.md",
     "Concept/Functions/codeFunc_Attack.md",
     "Concept/-list_Concept.md",
     "Concept/Acronyms.md",
     "Concept/Bioethnic.md",
     "Concept/Container.md",
-    "Concept/Damage.md",
     "Concept/Death.md",
-    "Concept/Elemengia.md",
-    "Concept/Gamemode.md",
-    "Concept/NurtLevels.md",
-    "Concept/Properties.md",
     "Concept/Rootrule.md",
     "Concept/Soul.md",
     "Concept/Spectroscopy.md",
@@ -187,13 +236,6 @@
     "Timeline/-list_Timeline.md",
     "Timeline/HubbleVolume/-main.md",
     "Dramatis_Character/Schroder.md",
-    "Dramatis_Character/-list_Dramatis_Character.md",
-    "Role_Character/Charlos.md",
-    "Role_Character/Chara_Dust.md",
-    "Enermy/Chara_Dust.md",
-    "Dramatis_Character/Charlie.md",
-    "Dramatis_Character/Frosty.md",
-    "Dramatis_Character/Kaplan_Steve.md",
     "Item",
     "Role_Character/~$data.ods",
     "Role_Character/F87BD000",
@@ -203,7 +245,6 @@
     "Role_Character/4588D000",
     "Concept/Environments",
     "Cam-Group",
-    "未命名.canvas",
     "Animation-Wiki.code-workspace"
   ]
 }
