@@ -11,15 +11,15 @@ Richard Ki 最初是一具由 Chara Dust 使用量化意志力创造出的仿生
 ## 基本信息
 - 原名：Richard Ki  
 - 本地化名：理查德 · 奇
-- [生物种族](../Concept/Bioethnic.md)：异象（人类）  
+- [生物种族](../Concept/Bioethnic.md)（模拟）：异象（人类）  
   - [灵魂特质](../Concept/Soul.md)：毅力（![#D535D9](https://via.placeholder.com/12/D535D9/000000?text=+) `#D535D9`）  
-  - 生理年龄：5  
+  - 生产周年：5  
   - 模拟年龄：21  
 - 称谓代词：He（他）
 
 ## 外貌信息
 Richard Ki 整体颜色印象取决于目前所表现的意志力，少年体型。皮肤较为白皙。
-Richard Ki 拥有中等长度的黑色头发，与其他少年头发不同的是，Richard Ki 的头发稍微显得耷拉，脸颊两侧留有代表女性群体的较长的两绺垂发以暗示 Richard Ki 没有性别。
+Richard Ki 拥有中等长度的黑色头发，与其他少年头发不同的是，Richard Ki 的头发如少女一般稍微显得垂耷，脸颊两侧留有代表女性群体的较长的两绺垂发以暗示 Richard Ki 没有性别。
 ### 衣物 - 空集
 Richard Ki 额头右上方印有数学符号“空集”标志
 Richard Ki 身着简单的灰黑色短袖衬衫与灰黑色五分短裤
