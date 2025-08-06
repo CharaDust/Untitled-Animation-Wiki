@@ -21,3 +21,4 @@
 | [Shu_Jing](Shu_Jing.md)         | 舒静                 | 简体中文 | 舒静          | 异象   | 灵魂特质 - 恐惧 | She  |
 | [XE_Chara](XE_Chara)            | X Chara de Evento  | 西班牙语 | 查拉：异事件      | 异象   | 灵魂特质 - 决心 | They |
 | [---]()                         | ---                | ---  | ---         | ---  | ---       | ---  |
+| Wei Ferd                        | Wei β Ferd         | 英语   | 维菲尔         |      |           |      |

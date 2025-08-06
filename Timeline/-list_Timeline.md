@@ -3,7 +3,7 @@
 |   编号 | 内部键名（MD链接）                             | 本地化名称   | 形成分类  |
 | ---: | -------------------------------------- | ------- | ----- |
 |    0 | [NULL]()                               | 虚无宇宙    | 混沌    |
-|    1 | [Euclid]()                             | 欧几里得宇宙  | 幻想    |
+|    1 | [Euclid](Euclid/-main.md)              | 欧几里得宇宙  | 幻想    |
 |   42 | [Hubble Volume](HubbleVolume/-main.md) | 哈勃体积    | 宇宙大爆炸 |
 |  258 | [Yilsrussimil]()                       | 耶尔斯鲁西米尔 | 轮回错误  |
 | 6314 | [Decay Dream](DecayDream/-main.md)     | 破败之梦    | 异常影响  |

@@ -4,7 +4,7 @@
   "monospaceFontFamily": "Envy Code R,Source Han Sans HW TC",
   "interfaceFontFamily": "Microsoft YaHei Mono",
   "textFontFamily": "Ubuntu,Source Han Sans HW TC",
-  "cssTheme": "80s Neon",
-  "theme": "obsidian",
+  "cssTheme": "GitHub Theme",
+  "theme": "moonstone",
   "nativeMenus": false
 }
